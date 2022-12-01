@@ -1,11 +1,11 @@
 {
-    "name": "flutter_profile",
-    "short_name": "flutter_profile",
+    "name": "Jignesh Parmar",
+    "short_name": "Jignesh Parmar",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Jignesh Parmar Portfolio Website",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
